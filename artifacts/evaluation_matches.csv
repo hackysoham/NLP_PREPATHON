@@ -1,0 +1,4 @@
+gt_as_of_time,pred_as_of_time,gt_inferred_state,pred_inferred_state,gt_action,pred_action,gt_hitl,pred_hitl
+2026-02-15T00:00:00Z,2026-02-14T22:25:00+00:00,churn_risk,no_significant_event,no_action,no_action,,auto_approved
+2026-03-08T00:00:00Z,2026-03-06T19:19:00+00:00,churn_risk,no_significant_event,relationship_manager_escalation,no_action,escalated,auto_approved
+2026-04-10T00:00:00Z,2026-04-03T09:15:00+00:00,churn_risk,no_significant_event,proactive_retention_outreach,no_action,,auto_approved

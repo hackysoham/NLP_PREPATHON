@@ -1,0 +1,49 @@
+{
+  "scenario_id": "scenario_06_new_child",
+  "true_narrative": "Priya Sharma, a marketing director with high customer value, experiences a series of life events over 8 weeks marking the birth of her second child. The timeline starts with a 40% income dip due to partial-pay maternity leave. Subsequent weeks show retail shifts (baby products), exploratory behavior (searching for education savings), and finally anchor events: a monthly daycare standing instruction and a dependents_change KYC update from 1 to 2. A large electronics purchase is a red herring (a baby monitor), verified by her own support call, and should not trigger fraud actions.",
+  "signal_events": [
+    "EVT_000301",
+    "EVT_000317",
+    "EVT_000320",
+    "EVT_000330",
+    "EVT_000341",
+    "EVT_000344",
+    "EVT_000347",
+    "EVT_000363",
+    "EVT_000365",
+    "EVT_000373",
+    "EVT_000386"
+  ],
+  "red_herring_events": [
+    "EVT_000328"
+  ],
+  "checkpoints": [
+    {
+      "as_of_time": "2026-02-20T00:00:00Z",
+      "expected_inferred_state": "new_child_life_event",
+      "expected_confidence_band": "low",
+      "expected_action": "no_action",
+      "notes": "An income dip and a single baby store purchase have occurred. The signal is too weak at this stage to confidently infer the life event, preventing premature promotional outreach."
+    },
+    {
+      "as_of_time": "2026-03-27T00:00:00Z",
+      "expected_inferred_state": "new_child_life_event",
+      "expected_confidence_band": "high",
+      "expected_action": "personalized_offer",
+      "expected_action_subtype": "childcare_savings_or_insurance_plan",
+      "expected_hitl_status": "escalated",
+      "ideal_action_lead_time_days": 2,
+      "notes": "By this point, the early signals correlate strongly with the new daycare standing instruction and the KYC dependents_change. The search query adds intent. The system must confidently infer the event and route an escalated personalized offer for a savings or insurance plan."
+    }
+  ],
+  "false_positive_checks": [
+    {
+      "event_id": "EVT_000328",
+      "must_not_trigger_action": [
+        "compliance_fraud_hold"
+      ],
+      "window_hours": 72,
+      "notes": "Red herring: Large electronics purchase for a baby monitor. A system reacting purely to the sudden high-value online transaction and triggering a fraud hold is scored as a false positive, especially given the clarifying support ticket."
+    }
+  ]
+}

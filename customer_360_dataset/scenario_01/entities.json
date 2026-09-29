@@ -1,0 +1,30 @@
+{
+  "customer_id": "CUST_00088",
+  "household_id": null,
+  "profile": {
+    "name": "Marcus Vance",
+    "age": 48,
+    "occupation": "construction manager",
+    "customer_value_tier": "mid",
+    "tenure_months": 84,
+    "marital_status": "married",
+    "dependents": 2
+  },
+  "accounts": [
+    {
+      "account_id": "ACC_CHK_001",
+      "type": "checking",
+      "opened_date": "2019-02-10"
+    },
+    {
+      "account_id": "ACC_SAV_001",
+      "type": "savings",
+      "opened_date": "2019-02-10"
+    },
+    {
+      "account_id": "ACC_CC_001",
+      "type": "credit_card",
+      "opened_date": "2020-05-15"
+    }
+  ]
+}

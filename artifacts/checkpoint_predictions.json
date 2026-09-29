@@ -1,0 +1,29 @@
+[
+  {
+    "as_of_time": "2026-02-14T22:25:00+00:00",
+    "inferred_state": "no_significant_event",
+    "confidence_band": "medium",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "Processed via pipeline. Critique: Passes rubric"
+  },
+  {
+    "as_of_time": "2026-03-06T19:19:00+00:00",
+    "inferred_state": "no_significant_event",
+    "confidence_band": "medium",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "Processed via pipeline. Critique: Passes rubric"
+  },
+  {
+    "as_of_time": "2026-04-03T09:15:00+00:00",
+    "inferred_state": "no_significant_event",
+    "confidence_band": "medium",
+    "action": "no_action",
+    "action_subtype": null,
+    "hitl_status": "auto_approved",
+    "notes": "Processed via pipeline. Critique: Passes rubric"
+  }
+]

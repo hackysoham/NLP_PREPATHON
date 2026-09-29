@@ -1,0 +1,30 @@
+{
+  "customer_id": "CUST_00184",
+  "household_id": null,
+  "profile": {
+    "name": "David Chen",
+    "age": 35,
+    "occupation": "software architect",
+    "customer_value_tier": "high",
+    "tenure_months": 60,
+    "marital_status": "single",
+    "dependents": 0
+  },
+  "accounts": [
+    {
+      "account_id": "ACC_CHK_003",
+      "type": "checking",
+      "opened_date": "2021-02-10"
+    },
+    {
+      "account_id": "ACC_SAV_003",
+      "type": "savings",
+      "opened_date": "2021-02-10"
+    },
+    {
+      "account_id": "ACC_CC_003",
+      "type": "credit_card",
+      "opened_date": "2021-08-15"
+    }
+  ]
+}

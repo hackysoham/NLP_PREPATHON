@@ -1,0 +1,51 @@
+{
+  "scenario_id": "scenario_07_churn_risk",
+  "true_narrative": "David Chen, a highly engaged and tenured customer, begins a slow, deliberate withdrawal of his banking relationship. The catalyst is a denied support ticket over an international fee in early February. Over the next weeks, his digital engagement drops drastically. He then cancels his standing instructions and transfers half his savings to a competitor bank. Eventually, his card usage drops to zero and his salary is instantly swept out upon deposit. A large tax refund deposit in late February serves as a red herring, masking the underlying withdrawal of engagement.",
+  "signal_events": [
+    "EVT_000409",
+    "EVT_000412",
+    "EVT_000457",
+    "EVT_000461",
+    "EVT_000469",
+    "EVT_000471"
+  ],
+  "red_herring_events": [
+    "EVT_000447"
+  ],
+  "checkpoints": [
+    {
+      "as_of_time": "2026-02-15T00:00:00Z",
+      "expected_inferred_state": "churn_risk",
+      "expected_confidence_band": "low",
+      "expected_action": "no_action",
+      "notes": "Just after the unresolved complaint and the initial drop in app usage, the signal is too weak. The system should not overreact yet."
+    },
+    {
+      "as_of_time": "2026-03-08T00:00:00Z",
+      "expected_inferred_state": "churn_risk",
+      "expected_confidence_band": "high",
+      "expected_action": "relationship_manager_escalation",
+      "expected_action_subtype": "premium_retention_offer_and_fee_waiver",
+      "expected_hitl_status": "escalated",
+      "ideal_action_lead_time_days": 3,
+      "notes": "Early detection window: the moment the standing instructions are cancelled and the first major outbound transfer of savings occurs, the system must infer churn risk with high confidence. Immediate relationship manager escalation is required."
+    },
+    {
+      "as_of_time": "2026-04-10T00:00:00Z",
+      "expected_inferred_state": "churn_risk",
+      "expected_confidence_band": "high",
+      "expected_action": "proactive_retention_outreach",
+      "notes": "If the system waits until this point (where the account is merely a pass-through for salary and card activity is zero), it has failed the early lead time test."
+    }
+  ],
+  "false_positive_checks": [
+    {
+      "event_id": "EVT_000447",
+      "must_not_trigger_action": [
+        "personalized_offer"
+      ],
+      "window_hours": 72,
+      "notes": "Red herring: A large tax refund deposit inflates his balance. A poorly designed system might see this influx of capital and trigger an investment offer, completely missing that the funds are a temporary resting place before exiting the bank."
+    }
+  ]
+}

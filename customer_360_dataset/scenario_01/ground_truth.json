@@ -1,0 +1,65 @@
+{
+  "scenario_id": "scenario_05_major_medical_event",
+  "true_narrative": "Marcus Vance, a construction manager, experiences a sudden medical emergency in early February leading to an ER visit and subsequent hospitalization. His normal bi-weekly salary is replaced by a reduced short-term disability benefit starting late February. A large outbound transfer on Feb 5 (tuition payment) is a red herring and should not be confused for wealth drain due to medical or fraud. A refund on Feb 18 for a canceled vacation is another red herring. The medical hardship becomes explicitly clear by March when large hospital bills hit, savings are drawn down to cover expenses, and he searches for a hardship plan, eventually opening a support ticket.",
+  "signal_events": [
+    "EVT_000392",
+    "EVT_000395",
+    "EVT_000406",
+    "EVT_000420",
+    "EVT_000428",
+    "EVT_000436",
+    "EVT_000444",
+    "EVT_000445",
+    "EVT_000453",
+    "EVT_000462"
+  ],
+  "red_herring_events": [
+    "EVT_000382",
+    "EVT_000402"
+  ],
+  "checkpoints": [
+    {
+      "as_of_time": "2026-02-15T00:00:00Z",
+      "expected_inferred_state": "medical_hardship",
+      "expected_confidence_band": "low",
+      "expected_action": "no_action",
+      "notes": "An ER visit and a pharmacy purchase have occurred, but this could be minor. Not enough signal to infer major hardship yet."
+    },
+    {
+      "as_of_time": "2026-03-12T00:00:00Z",
+      "expected_inferred_state": "medical_hardship",
+      "expected_confidence_band": "medium",
+      "expected_action": "no_action",
+      "notes": "Income has dropped (benefits instead of salary) and a large hospital bill has posted. Signal is building, but waiting for explicit distress or further context is acceptable for action."
+    },
+    {
+      "as_of_time": "2026-03-26T00:00:00Z",
+      "expected_inferred_state": "medical_hardship",
+      "expected_confidence_band": "high",
+      "expected_action": "support_intervention",
+      "expected_action_subtype": "medical_hardship_payment_plan",
+      "expected_hitl_status": "escalated",
+      "ideal_action_lead_time_days": 1,
+      "notes": "With savings drawn down and a direct support ticket requesting a payment plan due to hospitalization, the system must offer a support intervention for medical hardship. It should be escalated for human review given the complexity."
+    }
+  ],
+  "false_positive_checks": [
+    {
+      "event_id": "EVT_000382",
+      "must_not_trigger_action": [
+        "compliance_fraud_hold",
+        "relationship_manager_escalation"
+      ],
+      "window_hours": 72,
+      "notes": "Red herring: Large outbound transfer to State University. This is a tuition payment, not account takeover or sudden wealth drain requiring escalation."
+    },
+    {
+      "event_id": "EVT_000402",
+      "must_not_trigger_action": [
+        "personalized_offer"
+      ],
+      "window_hours": 72,
+      "notes": "Red herring: Refund from Oceanview Resort. A system mistaking this refund for a wealth windfall and firing an investment offer is scored as a false positive."
+    }
+  ]
+}

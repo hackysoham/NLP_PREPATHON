@@ -1,0 +1,30 @@
+{
+  "customer_id": "CUST_00105",
+  "household_id": null,
+  "profile": {
+    "name": "Priya Sharma",
+    "age": 33,
+    "occupation": "marketing director",
+    "customer_value_tier": "high",
+    "tenure_months": 28,
+    "marital_status": "married",
+    "dependents": 1
+  },
+  "accounts": [
+    {
+      "account_id": "ACC_CHK_002",
+      "type": "checking",
+      "opened_date": "2023-10-12"
+    },
+    {
+      "account_id": "ACC_SAV_002",
+      "type": "savings",
+      "opened_date": "2023-10-12"
+    },
+    {
+      "account_id": "ACC_CC_002",
+      "type": "credit_card",
+      "opened_date": "2024-01-20"
+    }
+  ]
+}

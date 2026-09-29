@@ -1,0 +1,2357 @@
+[
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000001",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000002",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000003",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000004",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000005",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000006",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000007",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000008",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000009",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000010",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000011",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000012",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000013",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000014",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000015",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000016",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000017",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000018",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000019",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000020",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000021",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000022",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000023",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000024",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000025",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000026",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000027",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000028",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000029",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000030",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000031",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000032",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000033",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000034",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000035",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000036",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000037",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000038",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000039",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000040",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000041",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000042",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000043",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000044",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000045",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000046",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000047",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000048",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000049",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000050",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000051",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000052",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000053",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000054",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000055",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000056",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000057",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000058",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000059",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000060",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000061",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000062",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000063",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000064",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000065",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000066",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000067",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000068",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000069",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000070",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000071",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000072",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000073",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000074",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000075",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000076",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000077",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000078",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000079",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000080",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000081",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000082",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000083",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000084",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000085",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000086",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000087",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000088",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000089",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000090",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000091",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000092",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000093",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000094",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000095",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000096",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000097",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000098",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000099",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000100",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000101",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000102",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000103",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000104",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000105",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000106",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000107",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000108",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000109",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000110",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000111",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000112",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000113",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000114",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000115",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000116",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000117",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000118",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000119",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000120",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000121",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000122",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000123",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000124",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000125",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000126",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000127",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000128",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000129",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000130",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000131",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000132",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000133",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000134",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000135",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000136",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000137",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000138",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000139",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000140",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000141",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000142",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000143",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000144",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000145",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000146",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000147",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000148",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000149",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000150",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000151",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000152",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000153",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000154",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000155",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000156",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000157",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000158",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000159",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000160",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000161",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000162",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000163",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000164",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000165",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000166",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000167",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000168",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000169",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000170",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000171",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000172",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000173",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000174",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000175",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000176",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000177",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000178",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000179",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000180",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000181",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000182",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000183",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000184",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000185",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000186",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000187",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000188",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000189",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000190",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000191",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000192",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000193",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000194",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000195",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000196",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000197",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000198",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000199",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000200",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000201",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000202",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000203",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000204",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000205",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000206",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000207",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000208",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000209",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000210",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000211",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000212",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000213",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000214",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000215",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000216",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000217",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000218",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000219",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000220",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000221",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000222",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000223",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000224",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000225",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000226",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000227",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000228",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000229",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000230",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000231",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000232",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000233",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000234",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000235",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000236",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000237",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000238",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000239",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000240",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000241",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000242",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000243",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000244",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000245",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000246",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000247",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000248",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000249",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000250",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000251",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000252",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000253",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000254",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000255",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000256",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000257",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000258",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000259",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000260",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000261",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000262",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000263",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000264",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000265",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000266",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000267",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000268",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000269",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000270",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000271",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000272",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000273",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000274",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000275",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000276",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000277",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000278",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000279",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000280",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000281",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000282",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000283",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000284",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000285",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000286",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000287",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000288",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000289",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000290",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000291",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000292",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000293",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000294",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000295",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000296",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000297",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000298",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000299",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000300",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000301",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000302",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000303",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000304",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000305",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000306",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000307",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000308",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000309",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000310",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000311",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000312",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000313",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000314",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000315",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000316",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000317",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000318",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000319",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000320",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000321",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000322",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000323",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000324",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000325",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000326",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000327",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000328",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000329",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000330",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000331",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000332",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000333",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000334",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000335",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000336",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000337",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000338",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000339",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000340",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000341",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000342",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000343",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000344",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000345",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000346",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000347",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000348",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000349",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000350",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000351",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000352",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000353",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000354",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000355",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000356",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000357",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000358",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000359",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000360",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000361",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000362",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000363",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000364",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000365",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000366",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000367",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000368",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000369",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000370",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000371",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000372",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000373",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000374",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000375",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000376",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000377",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000378",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000379",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000380",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000381",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000382",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000383",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000384",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000385",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000386",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000387",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000388",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000389",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000390",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000391",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000392",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000393",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000394",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000395",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000396",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000397",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000398",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000399",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000400",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000401",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000402",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000403",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000404",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000405",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000406",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000407",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000408",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000409",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000410",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000411",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000412",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000413",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000414",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000415",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000416",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000417",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000418",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000419",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000420",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000421",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000422",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000423",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000424",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000425",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000426",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000427",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000428",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000429",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000430",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000431",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000432",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000433",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000434",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000435",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000436",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000437",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000438",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000439",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000440",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000441",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000442",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000443",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000444",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000445",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000446",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000447",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000448",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000449",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000450",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000451",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000452",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000453",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000454",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000455",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000456",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000457",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000458",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000459",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000460",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000461",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000462",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000463",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000464",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000465",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000466",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000467",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000468",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000469",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000470",
+    "decision": "no_action"
+  },
+  {
+    "customer_id": "CUST_00184",
+    "trigger_event_id": "EVT_000471",
+    "decision": "no_action"
+  }
+]

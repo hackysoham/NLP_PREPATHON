@@ -1,0 +1,6 @@
+{
+  "scenario_id": "scenario_03",
+  "simulated_start": "2026-02-01T00:00:00Z",
+  "simulated_end": "2026-04-15T00:00:00Z",
+  "replay_speed_seconds_per_simulated_day": 30
+}
